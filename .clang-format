@@ -32,14 +32,14 @@ IndentWidth: 4
 NamespaceIndentation: All
 #PenaltyExcessCharacter: 0 # This is serious overkill - let's try not to use it
 PenaltyReturnTypeOnItsOwnLine: 20
-PointerAlignment: Left
+PointerAlignment: Right
 ReflowComments: false
 SortIncludes: false
 SpaceAfterCStyleCast : true
 SpacesBeforeTrailingComments: 1
 Standard: Cpp11
 TabWidth: 4
-UseTab: Always
+UseTab: Never
 
 # These are other format switches we know about - will likely need to turn some of these on/off before we're done
 #AllowShortBlocksOnASingleLine: true
