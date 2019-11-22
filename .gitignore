@@ -2,7 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/vs2017/ExampleMapiConsoleApp/.vs/ExampleMapiConsoleApp/v15
-/vs2017/ExampleMapiConsoleApp/Debug
-/vs2017/MapiStubLibrary/Debug
+**/.vs/
+/vs2017/ExampleMapiConsoleApp/Debug/
+/vs2017/MapiStubLibrary/Debug/
+/vs2017/ExampleMapiConsoleApp/x64/
+/vs2017/MapiStubLibrary/x64/
+/_build32/
+/_build64/
